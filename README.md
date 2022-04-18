@@ -1,4 +1,4 @@
-# Frontent Developer Code Challenge
+# Frontend Developer Code Challenge
 
 ## Overview
 
